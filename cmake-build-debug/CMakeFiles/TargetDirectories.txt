@@ -1,0 +1,3 @@
+/home/lpz/compile/minidecaf/minidecaf/cmake-build-debug/CMakeFiles/minidecaf.dir
+/home/lpz/compile/minidecaf/minidecaf/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lpz/compile/minidecaf/minidecaf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
